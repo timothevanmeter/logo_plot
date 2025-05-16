@@ -7,7 +7,8 @@
 // ------------------------------------------
 #define WIDTH 800
 #define HEIGHT 300
-#define MAX_FONT_SIZE 60.0
+#define MAX_FONT_SIZE 400.0
+#define SPACE_SIZE 10.0
 #define INITIAL_X 10
 #define INITIAL_Y HEIGHT
 
@@ -82,15 +83,25 @@ int main() {
   // The letter A has the largest width, so we use it
   //   as the max reference.
   cairo_text_extents (cr, A->L, &extents);
+  printf("\n%f\n", extents.width);
   graphP->maxWidth = extents.width;
   
   // ------------------------------------------
-  // Draw red letter 'T'
-  drawLetter(gP, T, 0.9);
-  
-  // ------------------------------------------
-  // Draw blue letter 'C'
-  drawLetter(gP, C, 0.5);
+  // Draw letters
+  // drawLetter(gP, T, 0.25);
+  // drawLetter(gP, C, 0.25);
+  // drawLetter(gP, G, 0.25);
+  drawLetter(gP, A, 1.0);
+
+  graphP->xE = graphP->maxWidth/2;
+  // graphP->xE += SPACE_SIZE;
+  // graphP->xE += extents.width + SPACE_SIZE;
+  graphP->yE = INITIAL_Y;
+
+  drawLetter(gP, T, 0.25);
+  drawLetter(gP, C, 0.25);
+  drawLetter(gP, G, 0.25);
+  drawLetter(gP, A, 0.25);
   
   // ------------------------------------------
   // Write to PNG
