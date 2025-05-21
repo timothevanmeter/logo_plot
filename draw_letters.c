@@ -15,18 +15,18 @@
 
 // ------------------------------------------
 // ------------------------------------------
-// #define SCALE 10
-#define HEIGHT 1000 //* SCALE
+#define SCALE 10
+#define HEIGHT 1000
 // The value of 1.368 was calculated as the multiplicative constant
 // between the font size and its height in pixel on the image. It
 // insures that the letters drawed occupy almost the entirety of the
 // vertical space of the image.
 #define MAX_FONT_SIZE HEIGHT * 1.368
 // #define SPACE_SIZE 10.0
-#define INITIAL_X 10 //* SCALE
+#define INITIAL_X 0
 #define INITIAL_Y HEIGHT
-#define SEQ_POSITION_WIDTH 200.0 //* SCALE
-#define WIDTH 32600 
+#define SEQ_POSITION_WIDTH 200.0
+// #define WIDTH 32600
 
 // Structure to associate letters with rgb colors
 typedef struct Nucleotide {
@@ -88,9 +88,8 @@ void drawLetter(graphPar **gP, nucl *N, float freq) {
 int main(int argc, char *argv[]) {
   // Get input file 
   const char * filename = argv[1];
-  // int sequenceLength = getlines(filename);
-  // int width = sequenceLength * SEQ_POSITION_WIDTH;
-  // printf("\n\t%d %d\n", sequenceLength, width);
+  int sequenceLength = getlines(filename);
+  int width = (sequenceLength-1) * SEQ_POSITION_WIDTH;
   
   // Initialising the graphical parameters structure    
   graphPar *graphP = malloc(sizeof(graphPar));
@@ -118,7 +117,7 @@ int main(int argc, char *argv[]) {
   nucl * nucleotides[] = {A,T,G,C};
   // ------------------------------------------
   cairo_text_extents_t extents;
-  cairo_surface_t *surface = cairo_image_surface_create(CAIRO_FORMAT_ARGB32, WIDTH, HEIGHT);
+  cairo_surface_t *surface = cairo_image_surface_create(CAIRO_FORMAT_ARGB32, width, HEIGHT);
   cairo_t *cr = cairo_create(surface);
   graphP->cr = cr;
   // ------------------------------------------
@@ -152,6 +151,8 @@ int main(int argc, char *argv[]) {
     graphP->yE = INITIAL_Y;
     // printf("\n");
   }
+
+  cairo_scale((*gP)->cr, SCALE, SCALE);
   
   // ------------------------------------------
   // Write to PNG

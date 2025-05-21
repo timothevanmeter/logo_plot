@@ -22,3 +22,4 @@ The horizontal offset was added using the maximum width of the maximum font size
 
 
 ## Issue: making the width dependent on the sequence length
+It was probably the scaling that caused the problem. I switched the scaling directly using the native cairo command and used the scaling at the scale of the whole image at the end, which is much less errorprone.
