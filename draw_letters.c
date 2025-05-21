@@ -3,16 +3,30 @@
 #include <cairo.h>
 #include <cairo-pdf.h>
 #include <string.h>
+#include "read_matrix.h"
+// ------------------------------------------
+// ------------------------------------------
+
+// --------- USAGE ---------
+// COMPILATION:
+// gcc -o draw_letters.o draw_letters.c `pkg-config --cflags --libs cairo`
+// EXECUTION:
+// ./draw_letters.o <frequencies_matrix.csv> <image_output.png>
 
 // ------------------------------------------
-#define WIDTH 2000
-#define HEIGHT 300
-#define MAX_FONT_SIZE 400.0
-#define SPACE_SIZE 10.0
-#define INITIAL_X 10
+// ------------------------------------------
+// #define SCALE 10
+#define HEIGHT 1000 //* SCALE
+// The value of 1.368 was calculated as the multiplicative constant
+// between the font size and its height in pixel on the image. It
+// insures that the letters drawed occupy almost the entirety of the
+// vertical space of the image.
+#define MAX_FONT_SIZE HEIGHT * 1.368
+// #define SPACE_SIZE 10.0
+#define INITIAL_X 10 //* SCALE
 #define INITIAL_Y HEIGHT
-
-#define SEQ_POSITION_WIDTH 200.0
+#define SEQ_POSITION_WIDTH 200.0 //* SCALE
+#define WIDTH 32600 
 
 // Structure to associate letters with rgb colors
 typedef struct Nucleotide {
@@ -41,72 +55,43 @@ float MAX(float a, float b) {
 }
 
 // ------------------------------------------
-// void drawLetter(graphPar **gP, nucl *N, float freq) {
-//   // int offset = 0;
-//   double xScaling = 1.0;
-//   // Calculate the font size based on frequency
-//   cairo_set_font_size((*gP)->cr, MAX_FONT_SIZE * freq);
-//   // cairo_set_font_size((*gP)->cr, SEQ_POSITION_WIDTH * freq);
-//   // Graphical parameters
-//   cairo_text_extents_t extents;
-//   cairo_text_extents ((*gP)->cr, N->L, &extents);
-//   cairo_set_source_rgb((*gP)->cr, N->rgb[0], N->rgb[1], N->rgb[2]);
-//   // offset = (int)((*gP)->maxWidth - extents.width) / 2;
-//   // offset = (int)(SEQ_POSITION_WIDTH - extents.width) / 2;
-//   xScaling = SEQ_POSITION_WIDTH / extents.width;
-//   cairo_save((*gP)->cr);
-//   if(freq != 1.0) {
-//     cairo_translate((*gP)->cr, 0.0, (*gP)->yE);
-//   } else {
-//     cairo_translate((*gP)->cr, (*gP)->xE, (*gP)->yE);
-//   }
-//   cairo_scale((*gP)->cr, xScaling, 1.0);
-//   cairo_show_text((*gP)->cr, N->L);
-//   cairo_restore((*gP)->cr);
-//   // Update the extent
-//   (*gP)->yE -= (int)extents.height;
-// }
 void drawLetter(graphPar **gP, nucl *N, float freq) {
     cairo_text_extents_t extents;
     double font_size = MAX_FONT_SIZE * freq;
 
     // Set font size
     cairo_set_font_size((*gP)->cr, font_size);
-
     // Get text extents
     cairo_text_extents((*gP)->cr, N->L, &extents);
     double text_width = extents.width;
     double text_height = extents.height;
-
+    // Compute Y scale to fit HEIGHT
+    // double yScale = (HEIGHT / text_height) * freq;
     // Compute X scale to fit SEQ_POSITION_WIDTH
     double xScale = SEQ_POSITION_WIDTH / text_width;
-
-    cairo_move_to((*gP)->cr, (*gP)->xE, (*gP)->yE);
-    
+    cairo_move_to((*gP)->cr, (*gP)->xE, (*gP)->yE);    
     // Save context state
     cairo_save((*gP)->cr);
-
-    // Move to the current drawing point
-    // cairo_translate((*gP)->cr, (*gP)->xE, (*gP)->yE);
-
     // Scale horizontally
     cairo_scale((*gP)->cr, xScale, 1.0);
-
     // Set color using float [0.0, 1.0]
     cairo_set_source_rgb((*gP)->cr, N->rgb[0], N->rgb[1], N->rgb[2]);
-
     // Draw the letter
     cairo_show_text((*gP)->cr, N->L);
-
     // Restore context to undo scale/translate
     cairo_restore((*gP)->cr);
-
     // Move Y up based on the font size (approximate stacking)
-    (*gP)->yE -= (int)(font_size);
+    (*gP)->yE -= (int)(text_height);
 }
 
 // ------------------------------------------
-int main() {
+int main(int argc, char *argv[]) {
+  // Get input file 
+  const char * filename = argv[1];
+  // int sequenceLength = getlines(filename);
+  // int width = sequenceLength * SEQ_POSITION_WIDTH;
+  // printf("\n\t%d %d\n", sequenceLength, width);
+  
   // Initialising the graphical parameters structure    
   graphPar *graphP = malloc(sizeof(graphPar));
   graphPar **gP = &graphP;
@@ -128,7 +113,9 @@ int main() {
   nucl *C = malloc(sizeof(nucl));
   C->L = "C";
   memcpy(C->rgb, (int[]){255,255,0}, sizeof C->rgb); // yellow
-  
+
+  // Storing all the nucleotides structures in an array
+  nucl * nucleotides[] = {A,T,G,C};
   // ------------------------------------------
   cairo_text_extents_t extents;
   cairo_surface_t *surface = cairo_image_surface_create(CAIRO_FORMAT_ARGB32, WIDTH, HEIGHT);
@@ -144,38 +131,31 @@ int main() {
   // The letter A has the largest width, so we use it
   //   as the max reference.
   cairo_text_extents (cr, A->L, &extents);
-  // printf("\n%f\n", extents.width);
   graphP->maxWidth = extents.width;
-  
+
   // ------------------------------------------
-  // Draw letters
-  drawLetter(gP, A, 1.0);
-
-  graphP->xE += graphP->maxWidth;
-  graphP->yE = INITIAL_Y;
-
-  // cairo_save((*gP)->cr);
-  
-  drawLetter(gP, A, 0.5);
-  drawLetter(gP, G, 0.5);
-
-  // float temp = MAX(xx, yy);
-
-  // cairo_scale((*gP)->cr, temp, 1.0);
-  // cairo_show_text((*gP)->cr, A->L);
-  // cairo_show_text((*gP)->cr, G->L);
-  // cairo_restore((*gP)->cr);
-  // graphP->xE += graphP->maxWidth;
-  // graphP->yE = INITIAL_Y;  
-  // drawLetter(gP, A, 1.0);
-  
-  // drawLetter(gP, C, 0.5);
-  // drawLetter(gP, G, 0.25);
-  // drawLetter(gP, T, 0.5);
+  // Instantiating matrix iterator
+  mIterator *mIt = init(filename);
+  // Iterates over every row in the matrix
+  // int sizeseq = 1;
+  while(next(mIt)) {
+    int i = 0;
+    // Loops over the matrix's columns
+    while(i < mIt->fields -1) {
+      if(mIt->array[i] != 0.0) {
+	// printf("%s:%.2f ", nucleotides[i]->L, mIt->array[i]);      
+	drawLetter(gP, nucleotides[i], mIt->array[i]);
+      }
+      i++;
+    }
+    graphP->xE += SEQ_POSITION_WIDTH;
+    graphP->yE = INITIAL_Y;
+    // printf("\n");
+  }
   
   // ------------------------------------------
   // Write to PNG
-  cairo_surface_write_to_png(surface, "output.png");
+  cairo_surface_write_to_png(surface, argv[2]);
   // Clean up
   cairo_destroy(cr);
   cairo_surface_destroy(surface);
@@ -183,5 +163,3 @@ int main() {
   // ------------------------------------------
   return 0;
 }
-
-// gcc -o draw_letters.o draw_letters.c `pkg-config --cflags --libs cairo` ; ./draw_letters.o ; eog output.png 

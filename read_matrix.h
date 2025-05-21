@@ -51,12 +51,12 @@ float ** getArray(const char *filename, int lineNumber) {
   int lineCount = 1;
   char line[1024];
   char *pend;
-  float *array = malloc(sizeof(float) * (fields-2));
+  float *array = malloc(sizeof(float) * (fields-1));
   float **a = &array;
   int i = 0;
   bool lineExist = false;
   // We do not use the header in the file
-  fgets(line, sizeof(line), file);
+  // fgets(line, sizeof(line), file);
   while(lineCount <= totalLines) {
     fgets(line, sizeof(line), file);
     if(lineNumber == lineCount) {
@@ -64,9 +64,12 @@ float ** getArray(const char *filename, int lineNumber) {
       // Tokenize the line based on commas
       char *token = strtok(line, ",");
       // The first token is not used it is the position integer
-      while (i < fields -2) {
-	token = strtok(NULL, ",");
+      while (i < fields -1) {
+	if(i != 0) {
+	  token = strtok(NULL, ",");
+	}
 	array[i] = strtof(token, &pend);
+	
 	i++;
       }
       break;
@@ -113,22 +116,23 @@ bool next(mIterator *mIt) {
 
 void print(mIterator *mIt) {
   int i = 0;
-  while(i < mIt->fields -2) {
-    printf("%f\n", mIt->array[i]);
+  while(i < mIt->fields -1) {
+    printf("%f ", mIt->array[i]);
     i++;
   }
+  printf("\n");
 }
 
 // -------------------------------------------
-int main(int argc, char *argv[]) {
+// int main(int argc, char *argv[]) {
 
-  const char *filename = argv[1];
+//   const char *filename = argv[1];
 
-  mIterator *mIt = init(filename);
-  print(mIt);
-  while(next(mIt)) {
-    print(mIt);
-  }
+//   mIterator *mIt = init(filename);
+//   print(mIt);
+//   while(next(mIt)) {
+//     print(mIt);
+//   }
   
-  return 0;
-}
+//   return 0;
+// }
