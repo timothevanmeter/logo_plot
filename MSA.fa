@@ -1,0 +1,968 @@
+>LH00587:153:2325LVLT3:8:1105:14213:14411 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggagcagtatggttctgtatctaccaacctccaaagaggcaacgcggctggcaatattggccaacaggatgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcct--------------
+>LH00587:153:2325LVLT3:8:1106:34157:12856 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacacccaatcccgcctctccggagcaacacaaccctgtatctattaccccccaacgaggcaacgcggctacacaaaccgctcaaatgcatacgcgccaacccaccattgccgatgtccacacacaaggcgtccttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1107:12641:3419 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgttgctatggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgacatcttcatcgagccttctgcgcgccaagcaactaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1107:14860:5374 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttccattaacgtctcagggcatgcgcgccaaacagccaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1107:45002:5951 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggagcagcatggttctgtatctaccaacctccagagaggcaacgcggctattgataacagccgcccgccagcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1108:10810:1689 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatggttctgtatctaccaacctccagagaggcaacgcggctactaccgagcacgatctcgctgcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1108:9525:1929 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatggttctgtatctaccaacctccagagaggcaacgcggctggcaattacctgggcatggacgcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1108:3515:2474 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatggttctgtatctaccaccctccagagaggcaacgcggctcaatcaaacaacgatagcatagcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1108:12863:4413 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatggttctgtatctaccaacctccagagaggcaacgcggctggagtatcaaatcaatgggaggcgcgccaatcagccaccgcagatgtcaacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1108:13658:12296 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacacccaatcccgtttctatggcgcagtatggttctgtatctaccaccctccagagaggcaacgcggctaccggacaaggtgtctgggatgcgcgccaagcctccaccgcagatgtccacacacaaggcgttcttccagtcctgg------------
+>LH00587:153:2325LVLT3:8:1108:7315:13962 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatggttctgtatctaccaacctccagagaggcaacgcggctctggcacgcgagcacaacattgcgcgccaagcagccaccgcagatgtcaaaacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1108:13279:17887 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatggttctgtatctaccaacctccagagaggcaacgcggctccgattgatgctggcagccctgcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1108:7509:25963 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatggttctgtatctaccaacctccagagaggcaacgcggcttccgctatgccgctgattccagcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1109:19011:8979 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggagcagtatggctctgtatctaccaacctccagagaggcaacgcggctatggaccgccagcaccatcaagcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1109:6085:23559 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaaagtgcacatgcaatctagtgcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1111:26242:10581 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatataccaacatccagcgaggcaacgcggctttcgactcacgtggccagggggcgcgccaagcaactattgtagatgtcaacacacaaggcgttcttccagtcat--------------
+>LH00587:153:2325LVLT3:8:1111:14194:14635 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatgattctgtatataccaacatccagcgaggcaacgcggctctcacagcttcagtcgacgctgcgcgccaatcagctattgtagatgtcaacacacaaggcgttcttccagccctg-------------
+>LH00587:153:2325LVLT3:8:1113:23228:12632 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacacccaatcccgcctctacggagcaacacaaccctgtatctaccaccccccaaagaggcaacgcggctcatattgctaccgagcagaagacgcgccaaacccccattgccgatgtccacacacaaggcgtccttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1113:18484:13994 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgcctctacggagcaacacaatcctgtatctaccaccccccaacgaggcaacgcggctgatctggctcagtcatatacaacgcgccaaacccccattgccgatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1114:6437:13273 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggagcagtatggttctgtatctaccaacctccaaagaggcaacgcggctctcgcgaacgtaatgccgtacgcgcgccaagcagccaccgcagatgctaacacacaaggcgttcttccagtcatgg------------
+>LH00587:153:2325LVLT3:8:1115:27758:10389 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacccccaaagaggcaacgcggctgtgcctaacaattacactacgactcgccaagcatccaccgcagatgtcaacacacaaggcgttcttccagacct--------------
+>LH00587:153:2325LVLT3:8:1115:14730:15084 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgttgctacggagcagtatgattctgtatctaccaccctccagagaggcaacgcggctctgaagaacccgcaagagtgggcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccagtcctgg------------
+>LH00587:153:2325LVLT3:8:1119:21212:17791 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgcgtctacggagcagtacggtcctgtatctaccaacctccaaagaggcaacgcggctctgggggtcgcagctacacatgcgcgcaaatcacccaccgcagatgtccacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1121:13778:2923 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctacggagcagtatggttctgtatctaccaacccccaaagaggcaacgcggctggggtaatgaatgctgggcatgcgcgccaagcacccaccgcagatgctaacacacaaggcgttcttccagtcctgg------------
+>LH00587:153:2325LVLT3:8:1123:46602:10197 2:N:0:ACAGGCGC+AGGCAGAG
+accagaacacccaatcccgccgctccggagcaacacaaccctgtatctaccaccccccaaagaggcaacgcggctggagacggcatgttcatggacacgcgccaaacccccaccaccgatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1123:24143:10405 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgcgtctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaaattggatcatcgcatggatgcgcgccaaacaaccaccgcagatgtcaacacacaaggcgttcttccaggcct--------------
+>LH00587:153:2325LVLT3:8:1123:7361:18016 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgcggctacggagcagtatagttctgtatctaccaacccccagagaggcaacgcggctgctgctaactttaagttcgacgcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1123:3774:28366 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcctacattctttgctgaggctgcgcgccaagcatccaccgccgatgtccacacacaaggcgttcttccagtcctgg------------
+>LH00587:153:2325LVLT3:8:1124:19455:2090 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgttgctacggagcagtatggttctgtatctaccaacctccaaagaggcaacgcggctgtgaccggccagtcatatatggcgcgccaagcatccattgtagatgtcaacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1124:10033:2138 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatagttctgtatctaccaacctccagagaggcaacgcggctatctccctgcaggaggaggcagcgcgccaagcagccattgtcgatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1124:13038:4076 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcatgatggcatgcacttggacgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1124:9867:4092 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcatgacgctgcgtactatgaggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1124:7500:4765 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatgattctgtatctaccaacctccagagaggcaacgcggcttactcccgcgagaccgggcacgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccagtcatgg------------
+>LH00587:153:2325LVLT3:8:1124:10477:4797 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgtgctaaaccagacctttggagcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1124:4042:5054 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgttgctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctggctacggcgagattcgcaacgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1124:6307:9844 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgagatcgctcagttctctgatgcgcgccaagcagccattgtcgatgtcaacacacaaggcgttcttccagtcctgg------------
+>LH00587:153:2325LVLT3:8:1124:4014:10165 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgcaaaggagtggcctgactacgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcct--------------
+>LH00587:153:2325LVLT3:8:1124:9405:10629 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctctaggccacacccctagccaggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1124:13787:11751 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcagtttaagcacaccaacgaggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1124:25447:12504 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgagtggcaccaggtcgagcaggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccagacatg-------------
+>LH00587:153:2325LVLT3:8:1124:7241:12616 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgaaccaacccgacctctcagtgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1124:10329:15340 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcctgaccgcgccatgggccatgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1124:12669:15708 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctacacgggatgttcctgaactcgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1124:24726:15933 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctacacccctgagtgctgggagtgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccagacatg-------------
+>LH00587:153:2325LVLT3:8:1124:7592:18416 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctagcgactgctcacaccattccgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcctg-------------
+>LH00587:153:2325LVLT3:8:1124:7759:19089 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgatatgcctgattcaaatattgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1124:3996:20387 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcaccagatgtaccaaccaacagcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1124:7907:23383 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctactctagctcatcctttccaagcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1124:7861:25065 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctccagtaaacgaagtcctgaaggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatg-------------
+>LH00587:153:2325LVLT3:8:1124:27536:25482 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctacggagcagtatggttctgtatctaccaacccccaaagaggcaacgcggctccactcctgccaaaccataacacgcgccaaacagccattgtagatgtccacacacaaggcgttcttccagaccta-------------
+>LH00587:153:2325LVLT3:8:1124:10015:26555 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctattatcggcgccaagccggaggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatg-------------
+>LH00587:153:2325LVLT3:8:1124:13048:28126 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaagatgattgttgatgcacaagcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1124:52039:28879 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctacctctgattttctggcatccgcgcgccaagcagctattgtagatgtcaacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1124:12807:29119 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaagccgtacggacaagaagcagcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1124:9562:29167 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctctgcaagagatgggcgaaacagcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1125:34175:6287 2:N:0:ACAGGCGC+AGGCAGAG
+atcagaacacccaatcccgcctctccggagcaacacaaccctgtatctaccaccccccaacgaggcaacgcggctttcacagctaatcacgaagacacgcgccaaccccccaccgccgatgtccacacacaaggcgtccttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1126:13085:20467 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacccccaaagaggcaacgcggcttacgcgtcaccacacggcttagcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1126:9109:23415 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacccccaaagaggcaacgcggctattcaggctaaggtcgatggggcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1127:10570:17679 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatgattctgtatctaccaacctccagagaggcaacgcggctatgaactacaagattgaacatgcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccagccatgg------------
+>LH00587:153:2325LVLT3:8:1128:34027:7024 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgcatctacggagcaacacaaccctgtatctaccaccccccaaagaggcaacgcggctagtcacaacatccaagcaatcacgcgccaaccacccaccgcagatgtccacacacaaggcgtccttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1128:34702:28959 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgccgctacggagcaacacaaccctgtatctaccaccccccaacgaggcaacgcggctctgttcaacataggcaaccctacgcgccaaccccccaccgccgatgtccacacacaaggcgtccttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1129:46648:10854 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaactccgcagctacggagcaacacaaccctgtatctaccaacccccaaagaggcaacgcggctagcgatattgggcacatcactacgcgccaaacacccaccgcagatgtcaacacacaaggcgtccttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1129:6400:14459 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaactccgtggctacggagcagtatggttctgtatctaccaacctccaaagaggcaacgcggctgcagccgagttgcctacatccgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1129:34841:15164 2:N:0:ACAGGCGC+AGGCAGAG
+accagaacacccaactccgccgctccggagcaacacaaccctgtatctaccaccccccaacgaggcaacgcggctcagcccgtcgtatggtgccaaacgcgccaatcccccaccgccgatgtccacacacaaggcgtccttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1129:6538:23287 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaactccgtggctacggagcagtatggttctgtatctaccaacctccaaagaggcaacgcggctggcgcaatggttattcagcatgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1130:46861:13946 2:N:0:ACAGGCGC+AGGCAGAG
+accagaacaaccaatcccgcatctacggagcagcacaaccctgtatctcttcccccccaaagaggcaacgcggctcgacccatggtgtgggaggacacgcgccaaacaaccattgccgatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1131:33620:8498 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatagctctgtatctaccaacctccaaagaggcaacgcggctcatgcactgagcgagagaacaacgcgccaaccacccaccgcagatgtccacacacaaggcgtccttccagccct--------------
+>LH00587:153:2325LVLT3:8:1131:24633:8691 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacccccagagaggcaacgcggctgaaaggcctacccaacaacatgcgcgccaaacacccaccgcagatgtcaacacacaaggcgttcttccagtcctgg------------
+>LH00587:153:2325LVLT3:8:1132:25530:8194 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatataccaacatccagcgaggcaacgcggctgaaaaggctctgcacggtaatacgcgccaagcagccattgtagatgtccacacacaaggcgttcttccagtcct--------------
+>LH00587:153:2325LVLT3:8:1132:46741:9572 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgcagctacggagcagtacaaccctgtatataccaacatccagcgaggcaacgcggctaaggaactggcaggcttccctacgcgccaaccacccattgtcgatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1132:20546:13465 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgcagctacggagcagtacggctctgtatataccaacatccagcgaggcaacgcggctttcaaaatgaacgagtgggatacgcgccaagccaccattgtcgatgtcaacacacaaggcgttcttccagccata-------------
+>LH00587:153:2325LVLT3:8:1132:28387:19618 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgcggctacggagcagtatagttctgtatataccaacatccagcgaggcaacgcggctaacgccctgtcccaaggcattacgcgccaagccgccattgtcgatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1132:25123:23351 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgcggctacggagcagtatggttctgtatataccaacatccagcgaggcaacgcggctggggaacgcagttacaacgttgcgcgccaatcatccattgtagatgtcaacacacaaggcgttcttccagccct--------------
+>LH00587:153:2325LVLT3:8:1132:37097:27212 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgctgctacggagcagtacggttctgtatataccaacatccaacgaggcaacgcggctattgtgcctcccgaggaattcacgcgccaaacacccattgtagatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1133:35211:15644 2:N:0:ACAGGCGC+AGGCAGAG
+accaggacacccaatcccgcctctacggagcaacacaaccctgtatctaccaccccccaacgaggcaacgcggctgggatggatcagggctccaagacgcgccaaccccccaccgccgatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1133:41396:19666 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggtcctgtatctaccaacccccaaagaggcaacgcggctgctattgctcccgcttctgatgcgcgccaaacaaccaccgcagatgtcaacacacaaggcgttcttccagccata-------------
+>LH00587:153:2325LVLT3:8:1133:46898:21156 2:N:0:ACAGGCGC+AGGCAGAG
+accaggacaaccaatcccgcagctacggagcaacacaaccctgtatctaccaccccccaaagaggcaacgcggctgatcagcaacaggtcggcaaaacgcgccaacccaccaccgcagatgtccacacacaaggcgttcttccagacata-------------
+>LH00587:153:2325LVLT3:8:1134:10912:3307 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagcatagtcctgtatctcttcacctccagagaggcaacgcggctcagcagacccacgcttctcctgcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccagacatgg------------
+>LH00587:153:2325LVLT3:8:1134:12918:6175 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctcttcacctccagagaggcaacgcggctggtagaatgctcaccgaagaggcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccagacat--------------
+>LH00587:153:2325LVLT3:8:1134:5614:18512 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctcttcacctccagagaggcaacgcggctgggttccaaagtgagcacatcgcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccagtcatgg------------
+>LH00587:153:2325LVLT3:8:1135:5438:6127 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcaatatggttctgtatctaccaacctccagagaggcaacgcggctacgatacctggcgctgacattgcgcgccaagcaactaccgccgatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1135:4125:6896 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgagcacggctcaccttttagtgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1135:6455:12408 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctacaccagtcatggctgccatagcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccagtcatgg------------
+>LH00587:153:2325LVLT3:8:1135:23080:17631 2:N:0:ACAGGCGC+AGGCAGAG
+accaggacacccaatcccgcctctccggagcaacacaaccctgtatctaccaccccccaacgaggcaacgcggctcatacatacatccctggcgaaacgcgccaaccccccaccgccgatgtcaacacacaaggcgtccttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1135:10154:18304 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcaatatggttctgtatctaccaacctccagagaggcaacgcggcttgggacgagcagcgcgccggagcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1135:3478:25482 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgacgtggtctctaagactatggcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1136:3626:2090 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaactccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaaggagacctcgattcatccagcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1136:5290:5358 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaactccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctatgaatcgcgaaggctatgacgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1136:29802:5983 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaactccgtggctacggagcagtatggttctgtatctaccaacctccaaagaggcaacgcggctactaaggatcaccacaattatgcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccagccctg-------------
+>LH00587:153:2325LVLT3:8:1136:5272:18048 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaactccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcctctctaccggcaagataatgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1136:6048:19009 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaactccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcaccagaagatcctgctcactgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccagtcatgg------------
+>LH00587:153:2325LVLT3:8:1136:10912:23655 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaactccgtggctacggagcagtacgattctgtatctaccaacctccagagaggcaacgcggctgattctttcccagagggcaaagcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccagacat--------------
+>LH00587:153:2325LVLT3:8:1136:3681:28558 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaactccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttacgaacctgtgaacggcacagcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:4661:1641 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgaggaagtcagctggaacggggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:9756:2234 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacccccagagaggcaacgcggctcagcctgattttatgcgcactgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:7528:4461 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttggaacgaggatattccgaacgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1137:3672:4701 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaacgggattcgttcagagtacgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:10413:5198 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaattctgcttccaaccgtgaagcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccagtcatgg------------
+>LH00587:153:2325LVLT3:8:1137:4458:5775 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgaaaaccaacgaaaggagactgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:4245:6239 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcaggtgaagtcaattagcggggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:12465:9300 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctggcaacattcccatgattgatgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:12539:9908 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctatcgacgtcaagcctttaagcgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:9802:10037 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcagcaagagcagcacaagactgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1137:10634:10037 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggaaacgcggctgaaatccacgcctggaacggtgcgcgccaagcagccattgtagatgtccacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:14370:10197 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccaaagaggcaacgcggctggtagaatgatttcagaaatcgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttacaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:9543:10421 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaacatttcaacttcataccaggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:43902:11030 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacccccaaagaggcaacgcggctgagcagcacattattgcacctacgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:10033:11302 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgttgttgatatgttcgccgcagcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:3755:12408 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaacggggatgggtcaagcaacgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:14684:13369 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctagtccagagcgccaataccaggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:7075:13994 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgatgagcgcagatacgagaacgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:9432:14587 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcaggatgtccgaatggtgggggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:3903:14715 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttacacgaacgatcgcgaagttgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1137:8526:14715 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatgattctgtatctaccaacctccagagaggcaacgcggctctgcaacgcatccacgagaatgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:30819:14859 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacccccaaagaggcaacgcggctcctgaggtccatcacgacgtggcgcgccaagcaaccattgtagatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1137:4606:15356 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcctaccgataccatgggaatggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:4689:15596 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgccggctacgacgagcacatcgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:8388:15596 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctacaccggctgacaccctgactgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:9340:15708 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgacctgtcaactttccagcaggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1137:8110:16429 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctagacccgagagcgattccaatgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1137:12373:17855 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttttacttcaggagatgccgctgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:10339:18176 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctctcgtgcacccccacgaggtcgcgcgccaagcagctattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:8369:18416 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcaggcccaaatgcaccccaatgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:7944:19506 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcagtatcacgtgccttacgaggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:9479:20179 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaagatacgcaccggctatgacgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcata-------------
+>LH00587:153:2325LVLT3:8:1137:10977:20179 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtacggctctgtatctaccaacctccagagaggcaacgcggctctcttcggcggggatagccccgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:4856:20691 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctccagacgataaagatgtaatggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:12363:20787 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgatatgctgagggattcctacgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1137:9238:21653 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgttgctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctagtactgctatgtacgaaatggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:12363:22518 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgaagcgcaattcgctctgccggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:9525:23848 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatagttctgtatctaccaacatccagagaggcaacgcggctgtcctgtcactgaactacgaggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:7297:24024 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgtggacaagccatacttccaggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1137:25826:24825 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacccccaaagaggcaacgcggctgacgcgcctgtctggaagtctgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:7768:26988 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatgattctgtatctaccaacctccagagaggcaacgcggctatgaatcgccgggaggagacggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:8989:27437 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctagcaacgagaagttcagtatggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:29774:28398 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgtcaaggctcaccaagagtgggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1137:15452:29407 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcgcttcgattcctacgattcagcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1140:5651:18192 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgaagaacaacggtacggagcagcgcgccaatcagccaccgcagatgtcaacacacaaggcgttcttccagtcatgg------------
+>LH00587:153:2325LVLT3:8:1140:3700:20259 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaagcagatgctggcttgtatggcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1140:3820:25754 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccaaagaggcaacgcggctgaggacgcttggcctcatctggcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1142:40934:8354 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacacccaatcccgcctctccggagcaacacaaccctgtatctaataccccccaacgaggcaacgcggctacacccctgtatcctggcgaaacgcgccaaccccccaccgccgatgtccacacacaaggcgttcttccagccct--------------
+>LH00587:153:2325LVLT3:8:1142:32132:11302 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctattaacccccaacgaggcaacgcggctggtacgggcgcaggccacatggcgcgccaaacacccaccgccgatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1142:14129:28750 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctattaacctccaaagaggcaacgcggctgctacatcaccacacaaaatcgcgcgccaagcatctaccgcagatgtcaacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1143:32058:13321 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctacggagcagcatggttctgtatctaccaacacccaaagaggcaacgcggctgataatcgccagattcgagacacgcgccaaacacccaccgccgatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1143:13945:14971 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctggcccgtgcgaggtcttctgcgcgcgccaagcatccaccgcagatgtcaacacacaaggcgttcttccagccct--------------
+>LH00587:153:2325LVLT3:8:1143:21129:15116 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccaaagaggcaacgcggctccacactacgctggcgagttcgcgcgccaatcatccaccgcagatgtcaacacacaaggcgttcttccagccct--------------
+>LH00587:153:2325LVLT3:8:1144:6215:5006 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacacccaatcccgtggctatggcgcagtatggttctgtatctaccaacctccagagaggcaacgcggctacagccacctctgctggcaacgcgcgccaagcagccattgtagatgtccacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1144:5817:6271 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctatggcgcagtatggttctgtatctaccaacctccagagaggcaacgcggctatgcctggcgaaggccgagaggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1144:12354:9043 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatggttctgtatctaccaacctccaaagaggcaacgcggctgacttttcagcaacccctgttgcgcgccaagcacccattgtagatgtcaacacacaaggcgttcttccagtcatgg------------
+>LH00587:153:2325LVLT3:8:1144:13159:11847 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatggttctgtatctaccaacctccagagaggcaacgcggctaactatgattatgagatggcagcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1144:26177:17807 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatggttctgtatctaccaacctccagagaggcaacgcggctccagaacctctggctaacaatgcgcgccaagcagccattgtcgatgtcaacacacaaggcgttcttccagtcatgg------------
+>LH00587:153:2325LVLT3:8:1144:7204:21172 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatggttctgtatctaccaacctccaaagaggcaacgcggctaacgataagggtgtcatgcaagcgcgccaagcagccattgtcgatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1144:6307:22278 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtagctatggcgcagtatagctctgtatctaccaacctccagagaggcaacgcggctcaggaaaaggttcctctctctgcgcgccaagcagccattctcgatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1144:9090:26075 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctatggcgcagtatggttctgtatctaccaacctccagagaggcaacgcggcttacacaaagaccgatgaaagagcgcgccaagcagccattgtagatgtcaacacaaaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1146:12872:8402 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctattgcccgcaataagttggatgcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1146:8193:11382 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaatggtaactaccgcgctgaagcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccagccct--------------
+>LH00587:153:2325LVLT3:8:1147:33176:11767 2:N:0:ACAGGCGC+AGGCAGAG
+accaggacacccaatcccgtctctatggagcaacacagtcctgtatctaccaccccccaacaaggcaacgcggctatagagaacatggctcggcttgcgcgccaaccccccatcgccgatgtccacacacaaggcgtccttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1147:26122:17615 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacacccaatcccgtggctatggagcagtatggttctgtatctaccaacccccaaagaggcaacgcggctgatttgctgccagagaattatgcgcgccaagcacccatcgcagatgtcaacacacaaggcgttcttccagccctgg------------
+>LH00587:153:2325LVLT3:8:1147:33611:28767 2:N:0:ACAGGCGC+AGGCAGAG
+accaggacacccaatcccgcctctatggagcaacacaaccctgtatctaccaccccccaacgaggcaacgcggctatggcaggcgacgctaaaagtacgcgccaaccccccatcgccgatgtccacacacaaggcgtccttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1148:4911:1208 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctccggaaaccccgtaccacgttgcgcgccaagcagctaccgcagatgctaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1148:3839:21108 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctttcaaggctgcttcagggatggcgcgccaagcagctaccgcagatgctaacacacaaggcgttcttacaggcatgg------------
+>LH00587:153:2325LVLT3:8:1148:49625:23575 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgttgctacggagcaacacaaccctgtatctaccaccccccaaagaggcaacgcggctatgcccgtcgacgatcaggcggcgcgccaagcccccaccgccgatgctcacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1150:8203:18769 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctccggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctccgctggagcatgtcatgggcgcgcgccaatcagccaccgcagatgtcaacacacaaggcgttcttccaggcatg-------------
+>LH00587:153:2325LVLT3:8:1150:16423:20323 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacacccaatcccgcctctccggagcaacacaaccctgtatctaccaccccccaaagaggcaacgcggctgatgaaatgcattcacgatttgcgcgccaaacatccaccgccgatgtccacacacaaggcgttcttccagccat--------------
+>LH00587:153:2325LVLT3:8:1150:43449:21685 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctccggagcagtatggttctgtatctaccaacccccaaagaggcaacgcggctatagctgctaacggcaaggaagcgcgccaatcatccaccgcagatgtcaacacacaaggcgttcttccagacat--------------
+>LH00587:153:2325LVLT3:8:1150:13112:25065 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgagtggatgccggagaccttcgcgcgccaagcacccaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1152:37273:1657 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagcatgattctgtatctaccaacccccaaagaggcaacgcggctggcagcggcgtacaagagtgggcgcgccaaacaaccaccgcagatgtcaacacacaaggcgttcttccagacatgg------------
+>LH00587:153:2325LVLT3:8:1152:23625:14379 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtagctacggagcaatacgactctgtatctaccaacccccaaagaggcaacgcggctaaaaccgatatcccttcctgggcgcgccaaacaaccaccgcagatgtcaacacacaaggcgttcttccaggcatg-------------
+>LH00587:153:2325LVLT3:8:1152:36977:24857 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcaatacggttctgtatctaccaacccccaaagaggcaacgcggcttggcaatcagacctgacccaaacgcgccaaacaaccaccgcagatgtcaacacacaaggcgttcttccagacata-------------
+>LH00587:153:2325LVLT3:8:1155:13482:16958 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctatcagccctgcccacatcgaagcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1155:3681:29103 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgatccgaaggaaatgtacggggcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccagtcctgg------------
+>LH00587:153:2325LVLT3:8:1156:42386:12760 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacccccaacgaggcaacgcggctccaaagattgaatacacagaggcgcgccaaacaaccaccgcagatgtcaacacacaaggcgtccttccagacat--------------
+>LH00587:153:2325LVLT3:8:1156:49783:20547 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacacccaatcccgtatctacggagcaacacaaccctgtatctaccaccccccagcgaggcaacgcggctccttataactcgtcaatcaacacgcgccaaccccccaccgccgatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1156:35164:21653 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcaatatggttctgtatctaccaacctccagcgaggcaacgcggctcaccccatgaacattcaccctgcgcgccaagcagccaccgcagatgtcaacacacaaggcgtccttccagacatg-------------
+>LH00587:153:2325LVLT3:8:1160:46713:5711 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgcatctacggagcagcacaattctgtatctcttcacccccaacgaggcaacgcggctgaacatcctgcaaccggccctacgcgccaaacccccaccgcagatgtccacacacaaggcgtccttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1160:31679:24072 2:N:0:ACAGGCGC+AGGCAGAG
+accaggacaaccaatcccgcatctacggagcagtacgatcctgtatctcttcacctccaacgaggcaacgcggctaactccgctgctctgcaacacacgcgccaatcacccaccgccgatgtcaacacacaaggcgtccttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1162:39076:7313 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaaccccgtggctacggagcagtatgattctgtatctaccaacctccaaagaggcaacgcggctgaagaacaacactacgacatcgcgcgccaagcaaccattgcagatgtcaacacacaaggcgttcttccagacata-------------
+>LH00587:153:2325LVLT3:8:1162:18651:9219 2:N:0:ACAGGCGC+AGGCAGAG
+atcagaacacccaaccccgcttctccggagcaatacaaccctgtatctaccaccccccaacgaggcaacgcggctaccatggctaaatggatgtttacgcgccaaacccccattgccgatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1162:14324:16654 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaaccccgctgctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgagggccctcacattcagcacacgcgccaaacacccattgcagatgtccacacacaaggcgttcttccagccctgg------------
+>LH00587:153:2325LVLT3:8:1163:13075:17759 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatgattctgtatctaccaacctccagagaggcaacgcggctgctggcgagcatatgctagctgcgcgcaaatcagccaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1164:24689:8530 2:N:0:ACAGGCGC+AGGCAGAG
+accagaacacccaatcccgcctctccggagcaacacaaccctgtatctaccaccccccaacgaggcaacgcggcttacgggctggataagtctttcacgcgccaaccccccaccgccgatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1164:40157:19954 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctccggagcagcatgaccctgtatctaccaccccccaacgaggcaacgcggctcccgagcaactgcgctacacgacgcgccaacccaccaccgccgatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1165:50550:9123 2:N:0:ACAGGCGC+AGGCAGAG
+accagaacaaccaatcccgccgctacggagcaacacaaccctgtatctaccaacccccaaagaggcaacgcggctgtgctgcaaacacacaatctcacgcgccaaccacccaccgccgatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1165:46768:20387 2:N:0:ACAGGCGC+AGGCAGAG
+accagaacacccaatcccgcctctccggagcaacacaaccctgtatctaccaccccccaaagaggcaacgcggctaaggcggagcctcaagtggacacgcgccaaccacccaccgccgatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1166:20787:15260 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacccccagagaggcaacgcggctcgcgacgctgcatacaccgctgcgcgccaatcagctaccgcagatgccaacacacaaggcgttcttccagccatgg------------
+>LH00587:153:2325LVLT3:8:1167:3755:8659 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaagccacctctgcctgaccaggcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1168:4615:13642 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctggttcccctatcgtcggttacgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1168:15627:22694 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacacccaatcccgtggctacggagcagtatggctctgtatctaccaccctccagagaggcaacgcggctcaggggcaccccgatatgcgggcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1170:16080:10854 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctgccaacctccagagaggcaacgcggctgacttccgcgatgataaagtggcgcgccaatcagccaccgccgatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1170:9923:13898 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctgccaacctccaaagaggcaacgcggctggccttaacgctgataggaatgcgcgccaatcagccaccgcagatgtcaacacacaaggcgtccttccagtcat--------------
+>LH00587:153:2325LVLT3:8:1170:13112:19169 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctgccaacctccagagaggcaacgcggctgttaacgctcatcctagctcagcgcgccaatcagccaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1170:16127:20163 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctgccaacctccagagaggcaacgcggctccttttaagcaaggctccgaggcgcgccaatcagccaccgccgatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1173:4523:12328 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctctccaggctagggattttaacgcgcgccaatcagccattgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1173:13334:16542 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgttgctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctctggacaccatgggcggcaacgcgcgccaatcagccattgcagatgtccacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1173:13501:18817 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaccctccagagaggcaacgcggctgcagagctgaggcaatatcaagcgcgccaatcacccattgcagatgtccacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1176:48007:6416 2:N:0:ACAGGCGC+AGGCAGAG
+accagaacacccaatcccgcatctccggagcaacacaaccctgtatctaccaccccccaacgaggcaacgcggcttaccctctgaaccaaccatccacgcgccaaccacccaccgccgatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1177:30514:3467 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttacaaccaaaccgctaattccgcgcgcaaagcagctaccgcagatgtcaacacacaaggcgttcttccagacatgg------------
+>LH00587:153:2325LVLT3:8:1177:37189:9235 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctttcaaaatggattacgatgaggcgcgccaatcatctaccgcagatgtcaacacacaaggcgttcttccagtcct--------------
+>LH00587:153:2325LVLT3:8:1177:3746:10725 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtacggctctgtatctaccaacctccagcgaggcaacgcggctgtgatcatgcaggatgagatggcgcgccaatcatctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1177:12382:13802 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttgttgggatgaccgcgattgtgcgcgccaatcagctaccgcagatgtcaacacacaaggcgttcttccagtcatgg------------
+>LH00587:153:2325LVLT3:8:1177:10218:19345 2:N:0:ACAGGCGC+AGGCAGAG
+atcagtacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgcagttcctcacatgtgggatgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1180:35072:17935 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgcctctccggagcaacacaaccctgtatctaccaccccccaacgaggcaacgcggctggccgcttctctgagggggatacgctccaaccccccaccgccgatgtccacacacaaggcgtccttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1183:14629:4076 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggctctgtatctaccaacctccagagaggcaacgcggctccggtgaagacagctatcatggcgcgccaatcatctaccgcagatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1183:14028:22422 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgtccatgataatcctaaggcagcgcgccaatcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1183:13038:24489 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgagaccgctaagcctatccaggcgcgccaatcagctaccgcagatgtcaacacacaaggcgttcttccagtcatgg------------
+>LH00587:153:2325LVLT3:8:1183:10903:28606 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgttgctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctccaatggataaaggctgggacgcgcgccaatcatctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1183:13787:29568 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgccgaccaccattacatgtgggcgcgcaaatcatctaccgcagatgtcaacacacaaggcgttcttccaggcatg-------------
+>LH00587:153:2325LVLT3:8:1185:14878:4445 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctatacaggctgatttcactttagcgcgccaagcatctaccgcagatgctaacacacaaggcgttcttccagccat--------------
+>LH00587:153:2325LVLT3:8:1191:16136:5374 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtttctacggagcagtatagctctgtatctaccaacctccagagaggcaacgcggctatgatccacaatgatcgacagacgcgccaaccccccaccgcagatgtccacacacaaggcgtccttccagtccta-------------
+>LH00587:153:2325LVLT3:8:1192:13649:26604 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctgccaacctccagagaggcaacgcggctgctcacgaggaatgggcgctcgcgcgccaagcatccaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1194:46722:25017 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacacccaatccagcctctccggagcaacacaaccctgtatctaccacccccaaacgaggcaacgcggctacccctaagagcttcgcggagacgcgccaaccccccattgccgatgtccacacacaaggcgtccttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1204:6011:1993 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcactttgagtggcctaacgaggcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1204:24947:13626 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacacccaatcccgtggctacggagcagtatggttctgtatctaccaccctccaaagaggcaacgcggctgccgtgaacagcggccagggtgcgcgccaagcaaccaccgcagatgtcaacacacaaggcgttcttccagacctgg------------
+>LH00587:153:2325LVLT3:8:1205:29700:12408 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaaccccgtggctacggagcagtatggttctgtatctaccaacctccaaagaggcaacgcggctgaaaagggcgtgaagaaggaagcgcgccaagccaccaccgcagatgtcaacacacaaggcgttcttccagacctgg------------
+>LH00587:153:2325LVLT3:8:1206:15230:8579 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgttgctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgcacccgtcaatggcaaaaacgcgcgccaaacagccattgcagatgtcaacacacaaggcgttcttccagccctg-------------
+>LH00587:153:2325LVLT3:8:1206:14721:24424 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctacggagcagtatggttctgtatctaccaacctccaaagaggcaacgcggctgtggctatgctcgagtataaggcgcgccaaacaaccattgcagatgtcaacacacaaggcgttcttccagccctgg------------
+>LH00587:153:2325LVLT3:8:1207:50707:10806 2:N:0:ACAGGCGC+AGGCAGAG
+accagaacacccaatcccgcatctacggagcaacacaaccctgtatctaccaccccccaacgaggcaacgcggctagcggtacctacaagcattccacgctccaaccacccattgccgatgtccacacacaaggcgtccttccagccata-------------
+>LH00587:153:2325LVLT3:8:1208:9867:1817 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatagctctgtatatgacaacatccagagaggcaacgcggctatggataaggaccctgtgagagcgcgccaagcagctaccgcagatgctaacacacaaggcgttcttccaggcatg-------------
+>LH00587:153:2325LVLT3:8:1208:4495:4365 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatgattctgtatatgacaacatccagcgaggcaacgcggctgctgagattgcggtccgtgcagcgcgccaagcagctaccgcagatgctaacacacaaggcgttcttccagtcat--------------
+>LH00587:153:2325LVLT3:8:1208:4800:13577 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatgattctgtatatgacaacatccagcgaggcaacgcggcttataaggtcgctctgaaccaggcgcgccaagcagctaccgcagatgctaacacacaaggcgttcttccagacctgg------------
+>LH00587:153:2325LVLT3:8:1208:8471:16381 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatgattctgtatatgacaacatccagagaggcaacgcggctgatcagcaaccgcaaaaaatcgcgcgccaagcagctaccgcagatgctaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1208:12595:19490 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatatgacaacatccagcgaggcaacgcggctaaacacgaggcggtcacgtgggcgcgccaagcagctaccgcagatgctaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1208:18521:23607 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctacggagcagtatgattctgtatatgacaacatccagcgaggcaacgcggctcgctccgtcccgcaaggcattgcgcgccaagcagctaccgcagatgctaacacacaaggcgttcttccagacata-------------
+>LH00587:153:2325LVLT3:8:1208:10450:29263 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatagttctgtatatgacaacatccagagaggcaacgcggctgaaaggcctgcccaaggattcgcgcgccaagcagctaccgcagatgctaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1212:31817:20691 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgcggctacggagcagcatagctctgtatctaccaccctccaaagaggcaacgcggctacttgggaggcagagaaaaagacgcgcaaatcacccaccgccgatgtccacacacaaggcgttcttccaggccta-------------
+>LH00587:153:2325LVLT3:8:1214:29959:24617 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacacccaatcccgtgtctccggagcagtatggttctgtatataccaacatccagcgaggcaacgcggctatcaagcaaatatacgttgaagcgcgccaatcagccaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1215:37152:7217 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaactcccaaagaggcaacgaggctctattacgcaataaggacgaagcgcgccaaacacccattgtcgatgtcaacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1217:15026:10661 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtttctacggagcagtatgattctgtatctcttcacctccaaagaggcaacgcggcttacggcctgagtgctacatccgcgcgccaagcagccattgcagatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1221:37051:7649 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaacctcgagattcctggatgggcgcgccaaacaaccattgcagatgtcaacacacaaggcgttcttccagacct--------------
+>LH00587:153:2325LVLT3:8:1223:14777:3435 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctatcccatcaactgatttcgctgcgcgccaagcagccaccgaagatgtcaacacacaaggcgttcttccaggcatg-------------
+>LH00587:153:2325LVLT3:8:1223:10033:15244 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgtcttggaggagtggcaccacgcgcgccaagcagccaccgaagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1223:8286:18432 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaatcagctgaaccaatctagtgcgcgccaagcagccaccgaagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1223:10597:22213 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggagcagtatggttctgtatctaccaacctccaaagaggcaacgcggctaaaaccgatgtggtctaccaggcgcgccaagcagccaccgaagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1224:24568:18128 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaaccccgtttctatggagcagtatggttctgtatctattaacccccaaagaggcaacgcggctgcccacgagcccttcgaaaaagcgcgccaatcatccaccgcagatgtccacacacaaggcgttcttccagtcctg-------------
+>LH00587:153:2325LVLT3:8:1224:46620:21893 2:N:0:ACAGGCGC+AGGCAGAG
+accaggacaaccaaccccgccgctatggagcaacacaaccctgtatctattaccccccaacgaggcaacgcggcttggtatcctcaggagcccgcaacgcgccaaccacccaccgccgatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1225:21194:12536 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgcctccgtcgacgatatgctcgcgcgccaatcagccattgcagatgtcaacacacaaggcgttcttccagccatgg------------
+>LH00587:153:2325LVLT3:8:1226:13316:2250 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctttcagacaaaacgataatgctgcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccagtcat--------------
+>LH00587:153:2325LVLT3:8:1227:14934:5022 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccaaagaggcaacgcggctagcgcagaggggcctcacaatacgcgccaatcatccattgcagatgtcaacacacaaggcgttcttacagccat--------------
+>LH00587:153:2325LVLT3:8:1228:33066:1352 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgttgctacggagcagtatagttctgtatctaccaacccccaaagaggcaacgcggctaaggcggaggacacccggaacacgcgccaaacacccaccgcagatgtcaacacacaaggcgttcttccaggcata-------------
+>LH00587:153:2325LVLT3:8:1228:36080:8595 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacccccaaagaggcaacgcggcttccggaaacgtaattgtggaggcgcgccaaacaaccaccgcagatgtcaacacacaaggcgttcttccagacat--------------
+>LH00587:153:2325LVLT3:8:1228:6215:9748 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttctcacaccaccgcttcttacgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1228:5198:13049 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgttgctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctagtatgtcagtgggcatcgatgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1228:6585:16285 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacatccagagaggcaacgcggctgaagctgcttccattcatgctgcgcgccaagcagctaccgcagatgtcgacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1228:6076:20948 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctttagctggcgtagtccaaaatgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1228:5891:23127 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgatactattccattcggagttgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1228:6575:24505 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttacaaccaatttaaggagactgcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1229:39778:13337 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacacccaatcccgtttctacggagcagtatggttctgtatctaccaacccccaacgaggcaacgcggcttcctgcgagccgttccagggagcgcgccaatcacccattgcagatgtcaacacacaaggcgtccttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1230:3885:14619 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctggcatgaccccggctctggaagcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1230:22266:15644 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccaaagaggcaacgcggctaacgtgttccagaacaatatggcgcgccaagcatccattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1232:26418:3035 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgcggctacggagcagtatagttctgtatctaccaacccccaaagaggcaacgcggctgcagccgagttgcctacatccacgcgccaaaccaccaccgcagatgtccacacacaaggcgttcttccagccata-------------
+>LH00587:153:2325LVLT3:8:1233:3811:22085 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctcaagcgaggcaacgcggctgcctctcaaccgattcaccctgcgcgccaagcatccaccgcagatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1234:10671:13369 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatagttctgtatctaccaacctccagagaggcaacgcggctgaacaattccagcctctgcacgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1234:6363:14106 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaccatggctatcgagcgccccgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1234:7565:18400 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttttgatcgctatgagaatgatgcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccagtcatgg------------
+>LH00587:153:2325LVLT3:8:1234:9654:25770 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctatctaccaacaggtcggcgaagcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1235:12752:11014 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaacctacctaatggccagagtgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccagtcatgg------------
+>LH00587:153:2325LVLT3:8:1235:4994:20002 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctattcgcgctgatatgctgaaagcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccagtcat--------------
+>LH00587:153:2325LVLT3:8:1235:8628:24633 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcaatatgattctgtatctaccaacctccagagaggcaacgcggctagcgcagaggaactgtggcatgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1235:37291:27421 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccaaagaggcaacgcggctttcgaggtctcctcaagcatggcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1235:20583:29167 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcacggtgctttacaacaggctgcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccagtcatg-------------
+>LH00587:153:2325LVLT3:8:1240:49718:5534 2:N:0:ACAGGCGC+AGGCAGAG
+accagaacacccaatcccgcctctacggagcaacacaaccctgtatctaccaccccccaaagaggcaacgcggctcagcacgctcccattggagtcacgcgccaaccccccaccgcagatgtccacacacaaggcgtccttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1240:13325:13609 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccaaagaggcaacgcggctacgatacctaccgctgcccacgcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1241:19844:25290 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctacgcgtggcgactcaacacatgcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccagtcatg-------------
+>LH00587:153:2325LVLT3:8:1241:31642:29359 2:N:0:ACAGGCGC+AGGCAGAG
+accaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacccccaaagaggcaacgcggctcagatgctgtctgctcccatcgcgcgccaagcacccaccgcagatgtcaacacacaaggcgttcttccagccctgg------------
+>LH00587:153:2325LVLT3:8:1246:23773:2522 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcatgcactgagcgagagaacagcgcgccaagcatccattgtagatgtccacacacaaggcgttcttccagacatgg------------
+>LH00587:153:2325LVLT3:8:1246:26445:3019 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcagatcaacgcgtacttcgaaacgcgccaatcaaccattgtagatgtcaacacacaaggcgttcttccagacctgg------------
+>LH00587:153:2325LVLT3:8:1246:16691:11975 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctccaacttacatggagcaggcagcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccagtcctgg------------
+>LH00587:153:2325LVLT3:8:1246:25687:22502 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacccccagagaggcaacgcggctcacaacaacggtgagggcaaagcgcgccaagcatccattgtagatgtcaacacacaaggcgttcttccagacctgg------------
+>LH00587:153:2325LVLT3:8:1246:3691:29632 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttgcggtaacaaatcattttcggcgcgccaagcagccattgtagatgtcaacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1247:17819:23319 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtttctacggagcaatatgattctgtatctcttcacccccaaagaggcaacgcggctggctcccacaatcactgggacgcgcgccaatcaaccaccgcagatgtcaacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1247:46731:27469 2:N:0:ACAGGCGC+AGGCAGAG
+accagaacacccaatcccgcctctccggagcaacacaaccctgtatctcttcccccccaacgaggcaacgcggctcatgatctgcccctgaaggaaacgcgccaaccacccaccgccgatgtccacacacaaggcgtccttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1248:41979:1513 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatggttctgtatctaccaacctccaaagaggcaacgcggctaagctgggcgaaggcgatcatacgcgccaagcaaccaccgcagatgtcaacacacaaggcgtccttccagccat--------------
+>LH00587:153:2325LVLT3:8:1248:7139:3948 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgttgctatggcgcagtatggttctatatctaccaacctccagagaggcaacgcggcttgcctttaccaacaaggcgatgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccagtcatgg------------
+>LH00587:153:2325LVLT3:8:1248:3312:7633 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatggttctgtatctaccaacctccagagaggcaacgcggctgggatggatggctactatgaggcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1248:14758:7954 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatggttctgtatctaccaacctccagagaggcaacgcggctgggatgtcaactgagttccctgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccagtcatgg------------
+>LH00587:153:2325LVLT3:8:1248:36801:9524 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatgattctgtatctaccaacctccagagaggcaacgcggctttcatctcagccgataaacacgcgcgccaaccacccaccgccgatgtcaacacacaaggcgttcttccagccct--------------
+>LH00587:153:2325LVLT3:8:1248:14573:13978 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatggttctgtatctaccaacctccagagaggcaacgcggctgtggaacgccgggaggccgctgcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccagtcatgg------------
+>LH00587:153:2325LVLT3:8:1248:13251:19858 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatggttctgtatctaccaacctccagagaggcaacgcggctgcgatgcacgagaagccagtggcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1248:9645:21332 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatgattctgtatctaccaacctccagagaggcaacgcggctcctgctcctgattcaacccgggcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccagccat--------------
+>LH00587:153:2325LVLT3:8:1248:9266:21797 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatggttctgtatctaccaacctccagagaggcaacgcggctgacgctgtctggtcagaacatgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccagtcatgg------------
+>LH00587:153:2325LVLT3:8:1248:9322:28110 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctatggcgcagtatggttctgtatctaccaacctccagagaggcaacgcggctggaggaaccatcaagttcgaggcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1249:27398:15596 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacacccaatcccgcctctacggagcaacacaattctgtatctattaccccccaaagaggcaacgcggctatgcagctgccctcattaaccacgcgccaaacccccaccgcagatgtccacacacaaggcgtccttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1251:46888:5566 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacacccaatcccgcatctacggagcagtataactctgtatatgccaccatcaagcgaggcaacgcggctaagcaccaaatcctggagaatacgcgccaaccacccaccgcagatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1251:46861:21476 2:N:0:ACAGGCGC+AGGCAGAG
+accaggacacccaatcccgccgctccggagcagcataaccctgtatatgccaccatcaagcgaggcaacgcggctggacatgtcgcagctcacgccacgcgccaaccccccaccgcagatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1252:9756:20563 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatatgccaacatcgagcgaggcaacgcggcttcccacaacaatcaaccacctgcgcgccaatcatttaccgcagatgtcaacacacaaggcgttcttccagtcat--------------
+>LH00587:153:2325LVLT3:8:1256:50568:16750 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgcttctccggagcaacacaaccctgtatctaccaccccccaacgaggcaacgcggctggccagcaatggcctaaccagacgcgcaaatcatctaccgcagatgtcgacacacaaggcgttcttccagacata-------------
+>LH00587:153:2325LVLT3:8:1257:9932:27949 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatgattctgtatataccaacatcaagcgaggcaacgcggctattaccctgctgcaagtggatgcgcgccaatcatctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1259:9802:2025 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaatgatggcggaatttatgatgcgcgccaagcagctattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1259:13501:4685 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctacccacctggccgataagcctgcgcgccaagcagctattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1259:14268:6367 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttctaggtcattgctggacaacgctcgccaagcagctattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1259:4144:13818 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgggctgattatggagcaaagagcgcgccaagcagctattgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1261:13908:24328 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctacggagcagtatggctctgtatctaccaacctccagagaggcaacgcggctgggaccgctgagattttcaaagcgcgccaagcatccattgccgatgtccacacacaaggcgttcttccagccct--------------
+>LH00587:153:2325LVLT3:8:1263:23496:2714 2:N:0:ACAGGCGC+AGGCAGAG
+accaggacaaccaatcccgcctctccggagcaacacaaccctgtatctaccaacccccaaagaggcaacgcggctatcggcctgcccatgatgaccacgcgccaaccccccaccgccgatgtccacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1264:13325:1721 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctatgatgtcactgaacaagcctgcgcgccaagcagctaccgcagatgtcaacacacaaggcgtccttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1266:12428:21028 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccaaagaggcaacgcggctgatcgcgagaatattttagatgcgcgccaagcagccaccgcagatgtccacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1267:15110:6704 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcaattcctggagaagcaaggcgcgcgccaatcatctaccgcagatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1267:13297:9908 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttatatcgatcaccctgtgaccgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1267:3506:14667 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctctcgaggctagtctgagagctgcgcgccaatcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1267:13408:16413 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcagccacgcacttggcaggaggcgcgccaatcagctaccgcagatgtcaacacacaaggcgttcttccaggcatg-------------
+>LH00587:153:2325LVLT3:8:1267:35470:18208 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcagacagaggggccttatcccgcgcgccaatcatctaccgcagatgtcaacacacaaggcgttcttccagtcatgg------------
+>LH00587:153:2325LVLT3:8:1267:13778:18560 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctatcgaggctcagcaattcaacgcgcgccaatcatctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1267:10496:22261 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggctctgtatctaccaacctccagagaggcaacgcggctatgatgattgacctgcaccaggcgcgccaagcatctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1267:14823:22742 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgttgctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgaggctcaagctcaaaacgttgcgcgcaaagcatctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1267:16635:23223 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctacagagaggcaacgcggctgggaccgctttcaacaatgtcgcgcgccaatcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1271:41794:14395 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgcacacgccaacatccagagaggcaacgcggctttcgtcaagatatcagaacatacgcgcaaagcagccaccgcagatgtcaacacacaaggcgttcttccagccata-------------
+>LH00587:153:2325LVLT3:8:1271:33093:14443 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtataattctgcacacgccaacatccagagaggcaacgcggctgaggcttcattgcgccccgtcgcgcgcaaagcaaccaccgcagatgtcaacacacaaggcgttcttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1275:46925:22069 2:N:0:ACAGGCGC+AGGCAGAG
+accagaacacccaatcccgcctctccggagcaatacaaccctgtatctaccaccccccaacgaggcaacgcggcttacacgaacggcgataggagcacgcgccaaacccccaccgccgatgtccacacacaaggcgtccttccagcccta-------------
+>LH00587:153:2325LVLT3:8:1275:14139:25722 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgttgctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaatcagctggagggcgagcacgcgcgccaagcagccaccgcagatgtcaacacacaaggcgttcttccagacatgg------------
+>LH00587:153:2325LVLT3:8:1278:13556:3788 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctatagataaccagcctcagttcgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1278:7426:4028 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttacccagctgaccctcaacgtgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1278:15258:8082 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccaaagaggcaacgcggctcagttcaagactcctgataatgcgcgccaagcaactaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1278:13362:18160 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctacccatatgctcaccgggcacgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1278:10607:21300 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacacccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaaccaactggagatgcggcaggcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1280:9784:7056 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctcaagagaggcaacgcggctattcacaagattaacgagcacgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1280:8462:9508 2:N:0:ACAGGCGC+AGGCAGAG
+accaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctcaagagaggcaacgcggctgagcagatggccgaggatcatgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcctgg------------
+>LH00587:153:2325LVLT3:8:1280:8369:9924 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacatcaagagaggcaacgcggctaaggccggccacgataactttgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1280:7953:12119 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctcaagagaggcaacgcggctcctcaacaatcgtcactgcacgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1280:8369:13898 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatgattctgtatctaccaacctcaagagaggcaacgcggctgaagaggctctgtgggtcaaggcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1280:14564:26203 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatgattctgtatctaccaacctcaagagaggcaacgcggctaccctccacgggcctctcgccgcgcgccaagcagctaccgtagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1283:10893:2346 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctcaagagaggcaacgcggctcaacaggtcgaggatatgttagcgcgccaagcagccattgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1283:21739:8579 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaaccccaagagaggcaacgcggctgatctgcacaagtcagatcacgcgcgccaagcagccattgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1283:10607:10437 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctcaagagaggcaacgcggcttacgctttcgatctgcaggaggcgcgccaagcagctattgcagatgtcaacacacaaggcgttcttccaggcat--------------
+>LH00587:153:2325LVLT3:8:1283:21748:11895 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgttgctacggagcagtatggttctgtatctaccaaccccaaaagaggcaacgcggcttcatcaattgactcacactgggcgcgccaagcaaccattgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1283:14564:17166 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctcaagagaggcaacgcggctatggcccgcgaccctaatcacgcgcgccaagcagccattgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1283:10745:21412 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctcaagagaggcaacgcggctactgagcaaatatacgattacgcgcgccaagcagccattgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1283:14268:23992 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctacggagcagtatggttctgtatctaccaacctcaaaagaggcaacgcggctacctctcacaaattcatggacgcgcgccaagcagccattgcagatgtcaacacacaaggcgttcttccaggcatgg------------
+>LH00587:153:2325LVLT3:8:1284:4717:1705 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttttaatgcttccaacgtaaatgcgcgcaaatcatctaccgtagatgtcgacgcataaggcgttcttccagtcatgg------------
+>LH00587:153:2325LVLT3:8:1286:15655:2426 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtgtctccggagcagtatggttctgtatctcttcccctccaacgaggcaacgcggctgagctgctggtcgatatccacgcgcgcaaatcatctaccgcagatgccaacacacaaggcgttcttccagccctgg------------
+>LH00587:153:2325LVLT3:8:1289:48581:25866 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatccagctgctacggagcagtatgattctgtatctcttcacccccaacgaggcaacgcggctaactaccctcgaattctcgatacgcgccaaacacccaccgcagatgtcaacacacaaggcgtccttccaggccta-------------
+>LH00587:153:2325LVLT3:8:1290:14536:1577 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgacatcgtcatcgctggcaacgcgcgccaagcagccaaagcagatgtcaacacacaaggcgttcttacagccatgg------------
+>LH00587:153:2325LVLT3:8:1290:5059:8739 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctatgccattcgacgcttgcaaggcgcgccaagcagccaaagcagatgtcaacacacaaggcgttcttacaggcatgg------------
+>LH00587:153:2325LVLT3:8:1290:4264:10053 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacacccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgtgcacctgaagtcagcagatgcgcgccaagcagccaaagcagatgtcaacacacaaggcgttcttacagtcatgg------------
+>LH00587:153:2325LVLT3:8:1290:22201:13065 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcactggcaatctgctgccgatgcgcgccaagcaaccaaagcagatgtcaacacacaaggcgttcttacagccat--------------
+>LH00587:153:2325LVLT3:8:1290:8924:18480 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatagttctgtatctaccaacctccagagaggcaacgcggctgagaccgctcgcatttatgatgcgcgccaagcagccaaagcagatgtcaacacacaaggcgttcttacagccatgg------------
+>LH00587:153:2325LVLT3:8:2250:17134:6752 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtttctacggagcagtatgactctgtatataccaccatcaagcgaggcaacgcggctggctttgctgatatgcgtgtggcgcgccaagcagctaccgcagatgtcaacacacaaggcgtcattccagaccta-------------
+>LH00587:153:2325LVLT3:8:2289:28831:24489 2:N:0:ACAGGCGC+AGGCAGAG
+atcaggacaaccaatcccgtggctacggagcagtatgattctgtatatgacaacatccagagaggcaacgcggctctgaatcacaaccacaaagaagcgcgcaaagcagctaccgcagatgtcggtgtgtgaggcgtgaggagaggtgtgg------------
+>LH00587:153:2325LVLT3:8:1104:30273:12568 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttcctttgagagaattcatgctgcgcgcaaagcagcgaccgcagatgtcgacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1104:7287:14459 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgttatgcactccgatcgacaggcgcgccaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1104:41211:15404 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcaggaccaccagcgccacgtcgcgcgccaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1104:40629:16093 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagaagtatggttctgtatctaccaacctccagagaggcaacgcggttgcaatgcctattaccgctgctgcgcgcaaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1104:29450:26299 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcgcgattggggcgatatgaccgcgcgcaaagcagctaccgcagatgtcaacacacaatgcgttattccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1105:50726:14363 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcctgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcatatgcacgaggctgcccacgcgcgcaaagcagctaccgcagatgtcaacacacaatgcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1105:9303:15452 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaactccgctattgatgcactcgcgcgccaagcagctaccgcagatgtcaacacacaatgcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1107:44568:3019 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatccagtggctacggagcagtatggttctgtatctaccaaccgccagagaggcaacgcggctagtggcaaccatgctcaccaggcgcgccaagcagctaccgcagatgtcaacacataatgcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1107:44364:26347 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcctgtggctacggagcagtatggttctgtatctaccaacctcaagagaggcaacgcggctgtcggcgaggggcctcacgtggcgcgcaaagcagctaccgcagatgtcaacacacaatgcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1107:43116:27196 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcagtccatggcagctcttgaagcgcgccaagcagctaccgcagatgtcaacacacaatgcgggcttctaggcatagtctggcaggaca
+>LH00587:153:2325LVLT3:8:1109:26871:12312 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggcgacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctatgatgcacagcgaggagcatgcgcgcaaagcagctaccgcagatgtcgacacatgatgcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1109:21850:24729 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggcgacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgactccaacaggacctacgttgcgcgccaagcagctaccgcagatgtcgatacacaatgcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1112:40971:5374 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgccgctacctcgaaccagattgcgcgccaagcagctaccgcagatgtcaacacacaatgcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1112:41008:5534 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagatgcaacgcggctgccgaggtcaatggcaaatttgcgcgccaagcagctaccgcagatgtcaacacacaatgcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1112:41350:6319 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctggtttggctgcacctttcgcagcgcgccaagcagctaccgcagatgtcaacacacaaggcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1112:44161:6383 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctagtactgctcagaccatggaggcgcgccaagcagctaccgcagatgtcaacacacaaggcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1112:23875:9428 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttttcagcgcgatcacgtccctgcgcgccaagcagctaccgcagatgtcaacacacaatgcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1112:20482:9860 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcgaaatccttccaacaacgatgcgcgccaagcagctaccgcagatgtcaacacacaaggcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1112:10209:13305 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctggcaaagaggaactgcgggctgcgcgccaagcagctaccgcagatgtcaacacacaaggcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1112:44022:15051 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaaccgccagagaggcaacgcggcttgctatattttggatgactgtgcgcgccaagcagctaccgcagatgtcaacacacaaggcgggcttccaggcatggtctggcaggata
+>LH00587:153:2325LVLT3:8:1112:42164:21508 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcagcaagagcacctgagcatcgcgcgcaaagcagctaccgcagatgtcaacgcacgatgcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1112:26159:26203 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgtgaagaagatcccttccgacgcgcgccaagcagctaccgcagatgtcaacacacgaggcgggcttctaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1112:13612:28013 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgtttataaggatgagcattgggcgcgccaagcagctaccgcagatgtcaacacacaagtcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1114:44207:19474 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcatatgggccagaaccacaacgcgcgcaaagcagctaccgcagatgtcaacgtatgatgcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1117:12909:22822 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgacctccagagaggcaacgcggcttacacaaaggataccggcgttgagcgcaaagcagcgattgcatatgtcgacacatgatgcgttcttccaggcatggtcgggcaggaca
+>LH00587:153:2325LVLT3:8:1119:14398:8995 2:N:0:ACAGGCGC+AGGCAGAG
+------------aagcccgtggctacggagcagtatggttctgtatctaccaacctccagatatgcaacgcggctgccacagagatgaaggcaacagcgcgcaaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1119:22701:27421 2:N:0:ACAGGCGC+AGGCAGAG
+------------aggcccgtggctacggagcagtatggttctgtatctaccaaccgccagatatgcaacgcggctgccgaccgccagcaagaagtcgcgcgcaaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1120:10893:1993 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgacctccagagaggcaacgcggcttacgaccgctccatggaccacgcgcgccaagcagctgccacagatgtcaacacacaatgcgttcttccaggcatagtctggcaggaca
+>LH00587:153:2325LVLT3:8:1120:26103:8258 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgacctccagagaggcaacgcggctaattattcacaggagccatacgcgcgcaaagcagctgccacagatgtcaacacataatgcgttattcaaggcatagtctggcaggaca
+>LH00587:153:2325LVLT3:8:1121:42219:5646 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgaggacttcaccaagatgtctgcgcgcaaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1121:20565:11286 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatccagtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctatacgctgcgaaatgagagacgcgcgcaaagcagctaccgcagatgtcagcacacaatgcgttattccgggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1121:11818:27244 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcacagctacatgccttacgaggcgcgcaaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1125:41239:3820 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaaccgccagagaggcaacgcggctaggcccaacgatcacgaagaagcgcgccaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1125:14333:11991 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaaccgccagagaggcaacgcggctcagagcttcattgagcagaatgcgcgccaagcagctaccgcagatgtcagcacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1125:35728:15805 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgcccctaactatggcagtaacgcgcgcaaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1125:15248:27357 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcttaaactgaatggcaacgcagcgcgcaaagcagctaccgcagatgtcaacacatgatgcgttcttcaaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1126:44817:3612 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttactcaacccagtcatcatccgcgcgcaaagcagctaccgcagatgtcaacatacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1126:7731:6928 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctggggatcctccaaaggcccttgcgcgccaagcagctaccgcatatgtcaacacataatgcgttcttcaaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1127:38909:14330 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcagatgtacggtcaaacaagtgcgcgcaaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1127:26297:25995 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaaccgccagagaggcaacgcggctaccggcgctcaattcgaagctgcgcgccaagcagctaccgcagatgtcaacatataatgcgttcttaaaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1129:3718:5070 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaaccgccagagaggcaacgcggcttataaggtcctggatagcatagcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcgtggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1129:41646:10838 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgtcactaagtccgagcagatagcgcgccaagcagctaccgcagatgtcaacacacaatgcgttcttctaggcgtggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1129:42561:12007 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctattgtgcctgagaccaagactgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcgtggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1129:29700:14811 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgtgttgaacccgcaaaatgctgcgcgcaaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcgtggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1129:43033:15837 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctatggcacctatcggcgatcatgcgcgcaaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcgtggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1129:30560:25562 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctccgattgatttcgctgaccgcgcgcgccaagcagctaccgcagatgtcaacacacaaggcgttcttccaggcgtggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1129:6557:26299 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaacgatcacgggtaccccgtggcgcgccaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcgtggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1132:16302:8899 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggcgacggagcagtatggttctgtatctgccgacctccagagaggcaacgcggctaactttaaccacgatgggaacgcgcgccgagcagctaccgcatatgtcgatgtatgatgcgttattataggcatagtcgggcgggata
+>LH00587:153:2325LVLT3:8:1135:8702:20499 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcccgagttcaacaagctcaatgcgcgccaagcagctaccgcagatgtcaacacataatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1136:8249:6768 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgctcacgctgggatgatgtcagcgcgccaagcagctaccgcagatgtcaacacacgatgcgttcttccaggcgtggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1137:19686:1625 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagaagtatggttctgtatatgccgacctccagagaggcaacgcggctaagtgggatgcttcagatgacgcgcgcaaagcagctaccgcagatgtcaacacataatgcgttcttcaaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1137:15701:3211 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgacctccagagaggcaacgcggctcataatatgttggagtccactgcgcgcaaagcagctaccgcagatgtcaacacataatgcgttcttccaggcatggtctggcaggata
+>LH00587:153:2325LVLT3:8:1137:8341:4525 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgacctccagagaggcaacgcggctgaacagttcatcgctaaaagtgcgcgccaagcagctaccgcagatgtcaacacataatgcgttcttccaggcatggtctggcaggata
+>LH00587:153:2325LVLT3:8:1137:19871:6784 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgaccgccagagaggcaacgcggctgaaaactcagacctggccccagcgcgcaaagcagctaccgcagatgtcaacatacgatgcgttcttcaaggcatggtctggcaggata
+>LH00587:153:2325LVLT3:8:1137:14361:18608 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgacctccagagaggcaacgcggctaccccagctagccacaatggggcgcgccaagcagctaccgcagatgtcaacacataatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1137:29469:22486 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgaccgccagagaggcaacgcggctcacccagtcactgataagcctgcgcgccaagcagctaccgcagatgtcaacacataatgcgttcttccaggcatggtcgggcaggata
+>LH00587:153:2325LVLT3:8:1137:37088:26299 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgacctccagagaggcaacgcggctagcgctgctgccttcgtaatagcgcgccaagcagctaccgcagatgtcaacacacgatgcgttcttccaggcatggtctggcaggata
+>LH00587:153:2325LVLT3:8:1137:25780:27244 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgacctcaagagaggcaacgcggctaatagtgatttacaatacaaagcgcgcaaagcagctaccgcagatgtcaacacataatgcgttcttccaggcatggtctggcaggata
+>LH00587:153:2325LVLT3:8:1137:14194:28414 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatatgccgacctccagagaggcaacgcggctggtggcgatcaccctccttatgcgcgcaaagcagctaccgcagatgtcaacacataatgcgttcttccaggcatggtctggcaggata
+>LH00587:153:2325LVLT3:8:1138:14314:17599 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgacctccagagaggcaacgcggctgctgaggattggaagcattccgcgcgcaaagcagcttccacagatgtcaacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1140:36015:2778 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatccagtggctacggagcagtatggttctgtatctaccaacctcaagagaggcaacgcggcttactaaaacgagcgcactgcggcgcgcaaagcagctaccgcagatgtcaacacacaatgcgttattaaaggcatggtcgggcaggata
+>LH00587:153:2325LVLT3:8:1143:19400:18272 2:N:0:ACAGGCGC+AGGCAGAG
+------------gatcccgtggctacggagcagtatggttctgtatctaccaaccgccagagaggcaacgcggctaactatcaaacacctatggctgcgcgcaaagcagctaccgcatatgtcaacacataatgcgttcttccaggcatagtctggcaggaca
+>LH00587:153:2325LVLT3:8:1144:38965:15100 2:N:0:ACAGGCGC+AGGCAGAG
+------------agtcccgtggctacggagcagtatggttctgtatctgccgacctccagagaggcaacgcggcttcgcagattcctgaggagtttgcgcgcaaagcagctaccgcagatgtcaacacacaatgcaggcttccaggcatagtctggcaggaca
+>LH00587:153:2325LVLT3:8:1147:14481:12119 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccgacctccagagaggcaacgcggctgaagtctcaaatcacgtgttcgcgcgcaaagcagctaccgcagatgtcaacacacaatgcgggcttcaaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1147:43643:12856 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccgacctccagagaggcaacgcggctaacatggagggcctgaggaacgcgcgccaagcagctaccgcagatgtcaacacacaatgcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1147:9747:15516 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccgacctccagagaggcaacgcggctatgcacacccacgctcccaacgcgcgccaagcagctaccgcagatgtcaacacacaatgcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1147:7861:15805 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccgacctccagagaggcaacgcggctaatgagcgcagacaatgggatgcgcgccaagcagctaccgcagatgtcaacacacaatgcgggcttcaaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1147:38475:16493 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccgacctccagagaggcaacgcggctagtgtgaactccgctaacgctgcgcgccaagcagctaccgcagatgtcaacacacaatgcgggcttacaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1147:27906:24424 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccgacctccagagaggcaacgcggctcagtactcagccgatatcggagcgcgcaaagcagctaccgcagatgtcaacacacaatgcgggcttcaaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1147:28785:26363 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccgacctccagagaggcaacgcggctgacgtggtcttgcgcatgaccgcgcgccaagcagctaccgcagatgtcaatatataatgcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1147:43255:29455 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccgacctccagagaggcaacgcggctcttaaactgtgcctgcaagatgcgcgccaagcagctaccgcagatgtcaacacacaatgcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1149:26676:11366 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatataccaacctccagagaggcaacgcggctgatgaacgcccgattctcatcgcgcgccaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1149:38789:21364 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttacatgcacgccgatgttgcggcgcgcaaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1149:32335:27709 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgatgttacccctgtcggttgggcgcgcaaagcagctaccgcagatgtcaacatacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1150:10505:23463 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgaaagcgtcatcgtcaagtccgcgcgccaagcagctaccgcagatgtcaacatatgatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1155:24541:18080 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggcgacggagcagtatggttctgtatataccaacctccagagaggcaacgcggctatgatgaacatcaagcaagatgcgcgcaaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatggtctggcaggata
+>LH00587:153:2325LVLT3:8:1159:14925:11511 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatatgccgacctccagagaggcaacgcggctaggaccgtcgaccacgtcgccgcgcgccaagcagctaccgcagatgtcaacacataatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1160:46704:1817 2:N:0:ACAGGCGC+AGGCAGAG
+------------ggtacggtggctatggagcagtatggtgctgtatataccaacggcgagagaggcgacgcggctaaacacattcatgagatggcagcgcgcagagcagcgtccacagatgtcggtgcatgatgcgttattaggggcatggtctggcgggata
+>LH00587:153:2325LVLT3:8:1162:14934:21845 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgaccgccagagaggcaacgcggctgacccgtcatgcctgaactttgcgcgcaaagcagctaccgcagatgtcaacacataatgcgttcttccaggcatggtctggcaggata
+>LH00587:153:2325LVLT3:8:1163:24097:3724 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaaccgccagatatgcaacgcggctacccatatgctcaccgggcacgcgcgcaaagcagctaccgcatatgtcagcatataatgcgttattacaggcatagtctggcaggaca
+>LH00587:153:2325LVLT3:8:1164:31105:2827 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaataaccacgaacaacagcaagcgcgccaagcagctaccgcagatgtcaacatacaatgcgttcttccaggcatagtctggcaggaca
+>LH00587:153:2325LVLT3:8:1164:25539:3019 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaacaacctccagagaggcaacgcggcttacaccgctcagttcgattatgcgcgccaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatagtctggcaggata
+>LH00587:153:2325LVLT3:8:1164:27841:26908 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcagcacgctgatggctggggtgcgcgccaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1165:19585:6159 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctcaagagaggcaacgcggctagtatgaaccacgtcgatggggcgcgcaaagcagcgaccgcagatgtcaacacataatgcgttattccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1166:41766:17839 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggcgacggagcagtatggtgctgtatataccaaccgccagatatgcaacgcggctgactgctacagctggccgagggcgcgcaaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatggtcgggcaggaca
+>LH00587:153:2325LVLT3:8:1172:26002:4044 2:N:0:ACAGGCGC+AGGCAGAG
+------------agtcccgtggctacggagcagtatggttctgtatctaccaacctccagataggcaacgcggcttgcttacgcgcgtacgagtgtgcgcgcaaagcagctaccgcagatgtcagcatatgatgcgttcttcagggcatggtctggcaggata
+>LH00587:153:2325LVLT3:8:1176:10163:6816 2:N:0:ACAGGCGC+AGGCAGAG
+------------aagcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgatatgaagtataagatcgacgctcgccaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatggtctggcaggata
+>LH00587:153:2325LVLT3:8:1177:30976:17599 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggcgacggagcagtatggttctgtatctaccaaccgccagagatgcaacgcggctctggtgtcatccaccagccacgcgcgccaagcagctaccgcagatgtcaacacatgatgcgttattccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1179:24827:26652 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagataggcaacgcggctaggtctcacgacacccagggggcgcgccaagcagctaccgcatatgtcaacatatgatgcgttcttccaggcatggtctggcaggata
+>LH00587:153:2325LVLT3:8:1197:35673:12632 2:N:0:ACAGGCGC+AGGCAGAG
+------------gatccagtggctacggagcagtatggttctgtatctaccaacctccagatatgcaacgcggctgaggctcaagtcgagcgccccgcgcgccaagcagctaccgcatatgtcaatatacgatgcgttattagaggcatagtctggcaggata
+>LH00587:153:2325LVLT3:8:1204:29487:9700 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaaccgccagagaggcaacgcggctgggcccacccacggcgatcatgcgcgcaaagcagctaccgcagatgtcaatacacaatgcgttattacaggcatagtctggcaggaca
+>LH00587:153:2325LVLT3:8:1205:37531:3676 2:N:0:ACAGGCGC+AGGCAGAG
+------------ggtcccgtggctacggagcagtatggttctgtatctaccaaccgcaagagaggcaacgcggcttacaacaccagtttcggcgaagcgcgcaaagcagcgaccgcagatgtcggtatatgatgcgttcttaaaggcatggtcgggcgggata
+>LH00587:153:2325LVLT3:8:1205:30569:10453 2:N:0:ACAGGCGC+AGGCAGAG
+------------agtcccgtggctacggagcagtatggttctgtatctaccaaccgcaagagaggcaacgcggctgatatgcctaagatgatgtcagcgcgcaaagcagcgaccgcagatgtcaacatacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1206:14767:13738 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgacctccagagaggcaacgcggctaagttcgagcacggcgtcaacgcgcgccaagcagctaccgcagatgtcaacacataatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1207:41581:17423 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgacctccagagaggcaaagcggctgcatggtcaacttcaaacgcagcgcgccaagcagctaccgcagatgtcaacgcacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1207:26020:23015 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgacctccagagaggcaacgcggctagcggaatggattaccgggctgcgcgcaaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1207:22516:24216 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgacctccagagaggcaacgcggcttctcagtggtgggaggatgaggcgcgccaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1211:28886:18689 2:N:0:ACAGGCGC+AGGCAGAG
+------------aagccagtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctatgattgattatcaccaagcagcgcgcaaagcagcgaccgcagatgtcagcacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1222:42210:4701 2:N:0:ACAGGCGC+AGGCAGAG
+------------agtccagtggctacggagcagtatggttctgtatataccaaccgccagagaggcaacgcggctcctggcattcagcaagcatacgcgcgcagagcagctaccgcatatgtcgatgcatgatgcgttcttccaggcatggtcgggcaggata
+>LH00587:153:2325LVLT3:8:1223:11864:2554 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatcgaccaacctccagagaggcaacgcggctcaccgttcactgcaaggtgccgcgcgccaagcagctaccgcagatgtcaacacataatgcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1223:11004:16029 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatcgaccaacctccagagaggcaacgcggctcacaattacgcagatagggaggcgcgccaagcagctaccgcagatgtcaacacacaatgcgggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1225:51095:21028 2:N:0:ACAGGCGC+AGGCAGAG
+------------ggtccggtggctatggagcagtatggttctgtatatgccgaccgcgagagaggcaacgcggctttcttgctgcaagatggggaggcgcgcagagcggcgaccgcagatgtcggtgtatgatgcgttattaggggcatggtcgggcgggata
+>LH00587:153:2325LVLT3:8:1226:15415:13834 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcatcagaacctcttcctcgaggcgcgccaagcagctaccgcagatgtcaacacacaatgcgttattacaggcatggtcgggcaggaca
+>LH00587:153:2325LVLT3:8:1226:42154:16590 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttatgtatataccaacctccagagaggcaacgcggctaagtccatgtccttcggcgaagcgcgccaagcagctaccgcagatgtcaacacataatgcgttcttacaggcatggtcgggcaggaca
+>LH00587:153:2325LVLT3:8:1230:28923:11767 2:N:0:ACAGGCGC+AGGCAGAG
+------------gatcccgtggctacggagcagtatggttctgtatctgccgacctccagagaggcaacgcggctacatccaccatcctgggccacgcgcgccaagcagctaccgcagatgtcaacacataatgcgttcttccaggcatggtctggcaggata
+>LH00587:153:2325LVLT3:8:1231:22497:3612 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatataccaaccgcaagagaggcaacgcggctatggtgcgcctcattgccgatgcgcgcaaagcagctaccgcatatgtcggcatacgatgcgttattctgggcatagtctggcgggata
+>LH00587:153:2325LVLT3:8:1233:25798:26956 2:N:0:ACAGGCGC+AGGCAGAG
+------------agtcccgtggctacggagcagtatggttctgtatctaccaacctccagatatgcaacgcggcttctcgacactcagataacgctgcgcgccaagcagctaccgcatatgtcaacacataatgcgttcttccaggcatagtcgggcaggaca
+>LH00587:153:2325LVLT3:8:1237:16321:4733 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgaccgccagagaggcaacgcggctatgtacacccagtcagtagatgcgcgcaaagcagctaccgcatatgtcaacacacgatgcgttattacaggcatagtctggcaggaca
+>LH00587:153:2325LVLT3:8:1240:44558:4156 2:N:0:ACAGGCGC+AGGCAGAG
+------------agtcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttctcccggctattcactcgacgcgcgccaagcagctaccgcagatgtcaacacataatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1242:24550:5310 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggcgacggagcagtatggttctgtatctaccaaccgccagataggcaacgcggctgaccatcctgattcatttcacgcgcgccaagcagctaccgcagatgtcaacacataatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1243:8924:6976 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgacctccagagaggcaacgcggcttcccagcaatgggagaatgctgcgcgcaaagcagctaccgcagatgtcaacacataatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1247:44531:5230 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctgaggtccctgtgacccggaacgcgcgcaaagcagcttccacatatgtcaacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1247:25271:16301 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttactttgatgctcctaaaagtgcgcgcaaagcagcttccacagatgtcaacacataatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1248:9294:8482 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaacaactggaacgtcgaagatgcgcgccaagcagctaccgcagatgtcaacacataatgcaggcttacaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1248:35701:9604 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcgaaatcctcataacgaggtagcgcgccaagcagctaccgcagatgtcaacacacaatgcaggcttacaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1248:11088:11206 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctctagcctaccaggctgttccagcgcgcaaagcagctaccgcagatgtcaacacataatgcaggcttacaggcatggtcgggcaggaca
+>LH00587:153:2325LVLT3:8:1248:26760:11286 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcctcttaacgcaaactacgaggcgcgcaaagcagctaccgcagatgtcaacacacaatgcaggcttcaaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1248:10505:15516 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcccgagaacccaaacgaagtggcgcgccaagcagctaccgcagatgtcaacacacaatgcaggcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1249:13612:2506 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctctgcaacgcatgtcaccagatgcgcgccaagcagctgccacagatgtcaacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1249:30079:7137 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaaactcaacgaagtcgactccgcgcgcaaagcagctgccacagatgtcaacacacaatgcgttcttccaggcatggtctggcaggata
+>LH00587:153:2325LVLT3:8:1249:24106:14955 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcatgggggcaacctgagcaacgcgcgcaaagcagctgccacagatgtcaacacataatgcgttcttccaggcatggtctggcaggata
+>LH00587:153:2325LVLT3:8:1249:30366:15548 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatccagtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctagcgcagagcccggccataatgcgcgcaaagcagctgccacagatgtcaacacacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1249:39982:16894 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaaccgccagagaggcaacgcggctatggacgctgacctggccccagctcgcaaagcagctgccacagatgtcaacacataatgcgttcttcaaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1256:17264:29247 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcctgtggctacggagcagtatggttctgtatataccaaccgccagatatgcaacgcggctacagcgatggcctgggagggagcgcgccaagcagctaccgcagatgtcaacacataatgcgttattacaggcatggtctggcaggata
+>LH00587:153:2325LVLT3:8:1257:8249:12472 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatacagtggctacggagcactatggttctgtatataccaaccgccagagaggcaacgcggctggggaaaccgggcgcgtctaggcgcgccaagcagctaccgcatatgtcggcgcatgatgcgttattaaaggcatggtcgggcaggaca
+>LH00587:153:2325LVLT3:8:1257:45104:22117 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaacggaatgacaaccgctcatgcgcgccaagcagctaccgcatatgtcgacatacgatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1263:25437:9540 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagatatgcaacgcggctatcaatgtcttgaccatgccagcgcgcaaagcagctaccgcagatgtcaacacataatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1264:27240:8659 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctcagatgctggccgatgcacacgcgcgcaaagcagctaccgcagatgtcagcgcataatgcgttcttcgaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1266:27111:15965 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctaactatcaaacacctatggctgcgcgccaagcagctaccgcatatgtcaacacataatgcgttcttccaggcatggtctggcaggata
+>LH00587:153:2325LVLT3:8:1266:44420:20803 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggcttacatccgcaccgagggggatgcgcgccaagcagctaccgcagatgtcaacacataatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1266:8767:22438 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagaggcaacgcggctctcgaggctagtctgagagctgcgcgccaagcagctaccgcagatgtcaacatatgatgcgttattacaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1267:51872:18304 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagagatgcaacgcggctatgacggcttacgtcgacgctgcgcgcaaagcagctaccgcagatgtcagtatatgatgcgttattctaggcatggtctggcaggata
+>LH00587:153:2325LVLT3:8:1270:22830:21524 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgacctccagagatgcaacgcggctatgtttgagaacatgaagagagcgcgccaagcagctaccgcagatgtcaacatacaatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1271:8637:22181 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaaccgccagatatgcaacgcggctggccacacccgcgagatcaccgcgcgccgagcagctacctcgtgtgtcggtatatgatgcgttattctaggcatagtcgggcaggaca
+>LH00587:153:2325LVLT3:8:1277:32030:24008 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgacctccagagaggcaacgcggctaacaagggccacgatctgcaagcgcgccaagcagctaccgcagatgtcaacacacaatgcgttattcaaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1280:39149:9588 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacatccagagaggcaacgcggctgacgctcctactaacttccatgcgcgccaagcagctaccgcatatgtcaatatatgatgcgttattacaggcatagtctggcaggaca
+>LH00587:153:2325LVLT3:8:1282:25992:7008 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaaccgccagatatgcaacgcggctcagggacaaatggtccatgaagcgcgccaagcagctaccgcagatgtcaacacacaatgcgttcttaaaggcatagtcgggcaggaca
+>LH00587:153:2325LVLT3:8:1282:22016:18801 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagatatgcaacgcggctgagggcgtcgattacgtgatcgcgcgcaaagcagctaccgcagatgtcaacacacgatgcgttcttccaggcatagtctggcaggaca
+>LH00587:153:2325LVLT3:8:1282:15960:28270 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagatatgcaacgcggctattcgccgcgatgatgccgctgcgcgccaagcagctaccgcagatgtcaacacataatgcgttcttccaggcatggtctggcaggaca
+>LH00587:153:2325LVLT3:8:1283:24254:3996 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgacctccagagatgcaacgcggctagcaatcgcatatacagcgatgcgcgccaagcagctaccgcagatgtcaacacacaatgcgttattccaggcatagtctggcaggaca
+>LH00587:153:2325LVLT3:8:1283:39677:20403 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctgccgacctccagagaggcaacgcggctgaggacgctcagacccacagagcgcgccaagcagctaccgcagatgtcaacacacaatgcgttcttccaggcatagtctggcaggaca
+>LH00587:153:2325LVLT3:8:1286:9386:8546 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatataccaaccgccagatatgcaacgcggcttttgagcctgatcgcgctgccgcgcgccaagcagcttccacagatgtcaacatacaatgcgttcttccaggcatagtctggcaggaca
+>LH00587:153:2325LVLT3:8:1286:29053:12792 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatataccaaccgccagatatgcaacgcggctattatcggcagaattgacatcgcgcgcaaagcagcttccacatatgtcagcacacaatgcgttcttccaggcatagtctggcaggaca
+>LH00587:153:2325LVLT3:8:1288:37439:20403 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtgactacggagcagtatggttctgtatctgccgacctccagatatgcaacgcggcttcccacctggggattggagcagcgcgcaaagcagctaccgcagatgtcaatacacgatgcgttattccaggcatagtctggcaggaca
+>LH00587:153:2325LVLT3:8:1290:28156:25690 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtgactacggagcagtatggttctgtatctgccgacctccagagaggcaacgcggctaagaaattcgacgctccgaatgcgcgccaagcagctaccgcagatgtcaacacacaatgcgttattccaggcatagtctggcaggaca
+>LH00587:153:2325LVLT3:8:1292:26002:6191 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagatatgcaacgcggctgtctcactgtacctgccagatgcgcgccaagcagctaccgcatatgtcaacatacgatgcgttcttccaggcatagtctggcaggaca
+>LH00587:153:2325LVLT3:8:1292:7149:27517 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctacggagcagtatggttctgtatctaccaacctccagataggcaacgcggctgacagcattccccgcgagccagcgcgccaagcagctaccgcatatgtcagcatatgatgcgttcttccaggcatagtctggcaggaca
+>LH00587:153:2325LVLT3:8:1296:28600:9636 2:N:0:ACAGGCGC+AGGCAGAG
+------------aatcccgtggctactgagcagtatggttctgtatctaccaacctccagatatgcaacgcggctgagcacattcgcctgcactgtgcgcgccaagcagctaccgcagatgtcaacatacgatgcgttcttccaggcatagtctggcaggaca

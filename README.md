@@ -1,7 +1,21 @@
-# Script to draw a logo plot
+# Scripts to draw a logo plot
 
-This script is designed to produce an image of a logo plot using as input a matrix of positions x nucleotides containing the frequencies for each entry.
+The script, make_logo.c, is designed to produce an image of a logo plot using as input a matrix of positions x nucleotides containing the frequencies for each entry.
 
+The script, consensus_seq.c, takes as input a fasta multiple sequence alignment  and outputs a csv file containing a matrix with in rows the position in the MSA, p, and in columns the four nucleotides, n, in order A, T, G, C. Each entry in the matrix is the frequency, f(p,n).
+
+### Dependencies
+- zlib
+- cairo
+- kseq.h
+
+### Makefile
+There is a makefile to compile and run the project.
+The command `make all` should from the MSA.fa file porduce the logo plot as a png file.
+
+![logo plot result](logo_plot.png)
+
+--------------------------------------------
 
 ## Horizontal spacing problems
 Problems i and ii are related in the sense that solving i will probably solve ii. However, solving ii might solve i. 
@@ -22,4 +36,6 @@ The horizontal offset was added using the maximum width of the maximum font size
 
 
 ## Issue: making the width dependent on the sequence length
+
+## Solved!
 It was probably the scaling that caused the problem. I switched the scaling directly using the native cairo command and used the scaling at the scale of the whole image at the end, which is much less errorprone.
