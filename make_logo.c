@@ -16,7 +16,7 @@
 // ------------------------------------------
 // ------------------------------------------
 #define SCALE 10
-#define HEIGHT 1000
+#define HEIGHT 500
 // The value of 1.368 was calculated as the multiplicative constant
 // between the font size and its height in pixel on the image. It
 // insures that the letters drawed occupy almost the entirety of the
@@ -25,7 +25,7 @@
 // #define SPACE_SIZE 10.0
 #define INITIAL_X 0
 #define INITIAL_Y HEIGHT
-#define SEQ_POSITION_WIDTH 200.0
+#define SEQ_POSITION_WIDTH 100.0
 // #define WIDTH 32600
 
 // Structure to associate letters with rgb colors

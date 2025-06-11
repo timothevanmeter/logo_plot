@@ -17,6 +17,11 @@ The command `make all` should from the MSA.fa file porduce the logo plot as a pn
 
 --------------------------------------------
 
+## To Do
+- Solve the issue with forward and reverse complement reads in the same dataset: detect them and merge them after correction.
+
+--------------------------------------------
+
 ## Horizontal spacing problems
 Problems i and ii are related in the sense that solving i will probably solve ii. However, solving ii might solve i. 
 
